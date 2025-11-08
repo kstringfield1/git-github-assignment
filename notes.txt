@@ -1,0 +1,1 @@
+Git is a control system that helps developers track changes. Github is a service that makes it easier to collaborate on code.
