@@ -1,2 +1,2 @@
 Git is a control system that helps developers track changes. Github is a service that makes it easier to collaborate on code.
-I am now branching in Git, this allows developers to work on separate things independently
+I am now branching in Git, this allows developers to work on separate things independently.
