@@ -1,2 +1,3 @@
 # git-github-assignment
 This repository contains my Git&amp;Github lab assignment for class
+Through this lab, I learned how to use Git for version control and Github for collaboration. I practiced cloning a repository, creating branches, committing changes, and merging them with the main branch. I also learned how pull requests allow collaborators to review and integrate code safely. A challenge I faced was fixing authentication issues with Github tokens, but I learned how to generate a personal access token to push code securely. Overall, this assignment helped me understand how teams manage code and collaborate efficently using Git. 
