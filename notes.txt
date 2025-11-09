@@ -1,2 +1,6 @@
 Git is a control system that helps developers track changes. Github is a service that makes it easier to collaborate on code.
 I am now branching in Git, this allows developers to work on separate things independently.
+Pull Requests in GitHub:
+- A pull request is a request to merge changes from one branch into another.
+- It allows code review and discussion before merging.
+- It helps maintain clean and controlled collaboration.
